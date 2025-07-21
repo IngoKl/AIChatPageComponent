@@ -1,0 +1,26 @@
+<div class="ai-chat-container" id="{CONTAINER_ID}" data-chat-id="{CHAT_ID}" data-api-url="{API_URL}" data-system-prompt="{SYSTEM_PROMPT}" data-max-memory="{MAX_MEMORY}" data-char-limit="{CHAR_LIMIT}" data-persistent="{PERSISTENT}" data-ai-service="{AI_SERVICE}">
+    <div class="ai-chat-header">
+        <h3>{CHAT_TITLE}</h3>
+    </div>
+    
+    <!-- BEGIN disclaimer -->
+    <div class="ai-chat-disclaimer">
+        {DISCLAIMER}
+    </div>
+    <!-- END disclaimer -->
+    
+    <div class="ai-chat-messages" id="{MESSAGES_ID}">
+        <div class="ai-chat-welcome">{WELCOME_MESSAGE}</div>
+    </div>
+    
+    <div class="ai-chat-input-area">
+        <div class="ai-chat-input-wrapper">
+            <textarea class="ai-chat-input" placeholder="{INPUT_PLACEHOLDER}" maxlength="{CHAR_LIMIT}"></textarea>
+            <button class="ai-chat-send">{SEND_BUTTON_TEXT}</button>
+        </div>
+    </div>
+    
+    <div class="ai-chat-loading" style="display: none;">
+        {LOADING_TEXT}
+    </div>
+</div>

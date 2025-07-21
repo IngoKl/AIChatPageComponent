@@ -1,0 +1,10 @@
+//
+// Copyright (c) 2025 Ingo Kleiber <ingo.kleiber@uni-koeln.de>
+// GPLv3, see LICENSE
+//
+// @author Ingo Kleiber <ingo.kleiber@uni-koeln.de>
+//
+<!-- language file start -->
+cmd_insert#:#KI-Chat einfügen
+content_plugin_version#:#Inhalt zuletzt bearbeitet mit Version
+edit_input_field#:#KI-Chat bearbeiten

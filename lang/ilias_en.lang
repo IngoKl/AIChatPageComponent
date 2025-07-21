@@ -1,0 +1,10 @@
+//
+// Copyright (c) 2025 Ingo Kleiber <ingo.kleiber@uni-koeln.de>
+// GPLv3, see LICENSE
+//
+// @author Ingo Kleiber <ingo.kleiber@uni-koeln.de>
+//
+<!-- language file start -->
+cmd_insert#:#Insert AI Chat
+content_plugin_version#:#Content last edited with version
+edit_input_field#:#Edit AI Chat
